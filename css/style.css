@@ -4205,3 +4205,9 @@ span.schedule-time {
   color: #1bb4b9;
   border-color: rgba(27, 180, 185, 0.7);
 }
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 300px;
+}
